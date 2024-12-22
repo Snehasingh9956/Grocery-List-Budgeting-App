@@ -1,6 +1,6 @@
-# Grocery-List-Budgeting-App
+### Grocery-List-Budgeting-App
 # Features:
-Add Items: Add items to the grocery list with their prices.
+Add Items: Add items to the grocery list with their prices.    
 Track Budget: Set a total budget for the shopping.
 Remove Items: Remove items from the list if needed.
 Total Price Calculation: Automatically calculate the total price as items are added or removed.
